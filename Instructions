@@ -1,1 +1,4 @@
 HELO  !
+Install modules by runnig following commands in your cmd
+pip install tensorflow
+pip install keras
